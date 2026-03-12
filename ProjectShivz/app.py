@@ -7,9 +7,9 @@ st.set_page_config(page_title="ShivIQ", layout="wide")
 HTML_DIR = Path("pages")
 
 PAGES = {
-    "Home": "index.html",
-    "Resume": "resume.html",
-    "Company": "company.html",
+    "Home": "FirstFrontPage.html",
+    "Resume": "Resume.html",
+    "Company": "Company.html",
     "Process": "process.html",
     "Dress Code": "dresscode.html",
     "Self Intro Choice": "selfintro-choice.html",
